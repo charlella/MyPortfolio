@@ -44,7 +44,7 @@ Development of Charlène Hoareau's personal portfolio on his past achievements i
 ![Illustrative project](https://static-assets.codecademy.com/Paths/front-end-career-path/personal-portfolio-website/personal-portfolio-website-screenshot.png)
 
 ## Wireframe
-![Wireframe](Resources/images/Wireframe.png)
+![Wireframe](https://github.com/ByronMike/MyPortfolio/blob/main/Resources/images/Wireframe.png)
 
 ## Technologies
 **Tools:**
